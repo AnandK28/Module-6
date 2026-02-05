@@ -1,8 +1,5 @@
 # Module 6
 
-## Name : Ramitha Chowdary S
-## Reg no : 212224240130
-
 # 1. Python OOP: Abstract Class & Method Example
 
 ## AIM
